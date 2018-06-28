@@ -1,7 +1,7 @@
 from flask import (
     Blueprint,request, Response, json
 )
-from . import functions
+import functions
 from  werkzeug.utils import secure_filename
 
 
