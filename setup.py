@@ -8,7 +8,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'flask',
-        'google-api-python-client'
-        'google-cloud-speech'
+        'google-api-python-client>=1.7.3',
+        'google-cloud-speech>=0.34.0'
     ],
 )
