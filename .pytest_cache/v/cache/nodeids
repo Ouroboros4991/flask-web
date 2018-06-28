@@ -1,0 +1,9 @@
+[
+  "tests/test_routes.py::test_config",
+  "tests/test_routes.py::test_get",
+  "tests/test_routes.py::test_without_sound_file",
+  "tests/test_routes.py::test_wrong_extension",
+  "tests/test_routes.py::test_post",
+  "tests/test_routes.py::test_wrong_language",
+  "tests/test_routes.py::test_correct_language"
+]

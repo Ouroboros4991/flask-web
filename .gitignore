@@ -1,0 +1,4 @@
+.virtenv
+.Text_to_speech_API.egg-info
+virtenv/
+Text_to_speech_API.egg-info/
